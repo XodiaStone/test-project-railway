@@ -5,3 +5,5 @@ function foo() {
 }
 
 const arr = [];
+
+const newArr = [];
