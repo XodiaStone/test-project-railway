@@ -10,4 +10,5 @@ const newArr = [];
 
 const obj = {
   name: 'xD',
+  lastName: 'Espinoza'
 }
