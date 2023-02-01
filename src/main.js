@@ -6,4 +6,4 @@ function foo() {
 
 const arr = [];
 
-const newArr = [1,2,3];
+const newArr = [1,2,3,4];
