@@ -9,5 +9,5 @@ const arr = [];
 const newArr = [];
 
 const obj = {
-  name: 'Otro nombre',
+  name: 'Otherone',
 }
