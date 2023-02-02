@@ -6,7 +6,7 @@ function foo() {
 
 const arr = [];
 
-const newArr = [];
+const newArr = [1,2,3,4];
 
 const obj = {
   name: 'xD',
